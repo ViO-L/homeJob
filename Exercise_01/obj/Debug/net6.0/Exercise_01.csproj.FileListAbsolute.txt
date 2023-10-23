@@ -1,0 +1,15 @@
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\bin\Debug\net6.0\Exercise_01.exe
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\bin\Debug\net6.0\Exercise_01.deps.json
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\bin\Debug\net6.0\Exercise_01.runtimeconfig.json
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\bin\Debug\net6.0\Exercise_01.dll
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\bin\Debug\net6.0\Exercise_01.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.csproj.AssemblyReference.cache
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.AssemblyInfoInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.AssemblyInfo.cs
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.csproj.CoreCompileInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.dll
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\refint\Exercise_01.dll
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\Exercise_01.genruntimeconfig.cache
+C:\Users\lomak\OneDrive\Рабочий стол\HW\homeJob\Exercise_01\obj\Debug\net6.0\ref\Exercise_01.dll
